@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    background-color: #1C1C1C;
+    color: white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    margin: 0 auto;
+    width: 600px;
+    height: 500px;
+    background-color: #1F2937;
+    
+   
+  
+}
+.wraper{
+    
+    margin: 60px 0 0 30px
+}
+.highlight{
+    color: #10B981;
+}
+#generate{
+    margin: 40px 0 20px 0;
+    padding: 10px 25px;
+    border-radius: 4px;
+    color: white;
+    background-color: #10B981;
+    outline: none;
+    cursor: pointer;
+}
+.underline{
+    width: 490px;
+    height: 1px;
+    background-color: #2F3E53;
+    margin-bottom: 20px;
+}
+
+.password-container{
+    display: flex;
+    
+}
+.show-pa{
+    width: 200px;
+    height: 20px;
+    padding: 10px 20px;
+    background-color: #273549;
+    margin-right: 20px;
+    text-align: center;
+    border-radius: 4px;
+}
